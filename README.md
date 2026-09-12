@@ -239,4 +239,4 @@ This repository serves as the official landing page for Dragon Stop Motion. The 
 **Get the most recent version of Dragon Stop Motion today!**
 
 ---
-**Last updated:** 2026-09-12 16:43:25 UTC
+**Last updated:** 2026-09-12 18:55:31 UTC
